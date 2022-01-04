@@ -1,0 +1,25 @@
+.center {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	width: 100vw;
+	height: 100vh;
+  background: rgb(20, 4, 70);
+  padding: 2rem;
+}
+
+.image {
+	width: 50%;
+}
+
+.title {
+  color: #ccc;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 40px;
+}
+
+.subtitle {
+  color: #eee;
+  text-align: center;
+}

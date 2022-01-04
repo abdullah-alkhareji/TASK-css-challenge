@@ -1,0 +1,36 @@
+.container {
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background-image: url("../assets/pokemon-bg.jpg");
+}
+
+.card {
+	width: 50%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background: #fff;
+	padding: 1rem;
+	border-radius: 20px;
+	-webkit-box-shadow: 0px 4px 12px 5px rgba(0, 0, 0, 0.3);
+	box-shadow: 0px 4px 12px 5px rgba(0, 0, 0, 0.3);
+}
+
+.image {
+	width: 100px;
+	height: 100px;
+	object-fit: cover;
+	border-radius: 50%;
+}
+
+.title {
+	font-weight: bold;
+}
+
+.subtitle {
+	text-align: center;
+}
