@@ -5,8 +5,8 @@
 	align-items: center;
 	width: 100vw;
 	height: 100vh;
-  background: rgb(20, 4, 70);
-  padding: 2rem;
+	background: rgb(20, 4, 70);
+	padding: 2rem;
 }
 
 .image {
@@ -14,12 +14,13 @@
 }
 
 .title {
-  color: #ccc;
-  font-family: 'Times New Roman', Times, serif;
-  font-size: 40px;
+	color: #ccc;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 40px;
+	text-align: center;
 }
 
 .subtitle {
-  color: #eee;
-  text-align: center;
+	color: #eee;
+	text-align: center;
 }
