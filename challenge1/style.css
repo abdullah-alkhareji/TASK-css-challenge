@@ -10,7 +10,7 @@
 }
 
 .image {
-	width: 50%;
+	width: 400px;
 }
 
 .title {
@@ -23,4 +23,5 @@
 .subtitle {
 	color: #eee;
 	text-align: center;
+	width: 800px;
 }
